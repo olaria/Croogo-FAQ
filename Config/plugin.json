@@ -1,0 +1,13 @@
+{
+    "name" : "FAQ",
+    "description" : "A FAQ plugin to Croogo",
+    "author" : "Helder Santana",
+    "authorEmail" : "helder@olaria.me",
+    "authorUrl" : "http://www.olaria.me",
+    "dependencies": {
+        "plugins": [
+            "acl",
+            "extensions"
+        ]
+    }
+}
